@@ -128,7 +128,7 @@ body:
 
         - [ ] Create a GPG key linked to GitHub: [Guide](guides/issue-progression/docs/contributor-setup.md#3-set-up-a-gpg-key-for-signing)
 
-        - [ ] **Fork** Create an online and local copy of the repository: [Guide](guides/issue-progression/docs/contributor-setup.md#4-fork-the-repository)
+        - [ ] **Fork** The repository and create both an online and local copy of the repository: [Guide](guides/issue-progression/docs/contributor-setup.md#4-fork-the-repository)
 
         - [ ] **Connect** origin with upstream: [Guide](guides/issue-progression/docs/contributor-setup.md#5-connect-your-origin-with-upstream)
 
@@ -262,7 +262,7 @@ body:
         #### First Points of Contact:
         - [Discord](guides/issue-progression/docs/discord.md)
         - Comment with `@hiero-ledger/hiero-sdk-good-first-issue-support`
-        The more you ask, the more you learn and so do we!
+        The more you ask, the more you learn and so do we! 
 
         #### General Documentation:
         - [New Starter Docs (Signing, Rebasing, Changelog, Merge Conflicts, Workflow, Setup)](guides/issue-progression/docs)
